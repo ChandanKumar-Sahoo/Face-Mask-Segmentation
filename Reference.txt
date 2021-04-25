@@ -1,0 +1,7 @@
+Reference:
+
+
+Acknowledgement for the dataset: http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+
+
+Mobile Net paper: https://arxiv.org/pdf/1704.04861.pdf
